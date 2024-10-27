@@ -1,2 +1,3 @@
 # -rodowisko_zao_1
-sdasdadad
+Zajęcia z gita dla grupy 1
+dsdadad
